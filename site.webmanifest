@@ -3,9 +3,26 @@
     "short_name": "IqraaFikra",
     "icons": [
         {
-            "src": "https://cdn.statically.io/gh/Iqraafikra/favicon/main/android-chrome-192x192.png",
+            "src": "https://cdn.jsdelivr.net/gh/Iqraafikra/favicon@main/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
+        },
+        {
+            "src": "https://cdn.jsdelivr.net/gh/Iqraafikra/favicon@main/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn.jsdelivr.net/gh/Iqraafikra/favicon@main/maskable_icon_x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://cdn.jsdelivr.net/gh/Iqraafikra/favicon@main/maskable_icon_x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
         }
     ],
     "theme_color": "#f6f6f6",
